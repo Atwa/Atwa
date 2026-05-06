@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Atwa</h1>
-<h3 align="center">A lead software engineer with +10 years of experience in Android and mobile software development.</h3>
+<h3 align="center">Expert Mobile Engineer & Architect with 10+ years of experience specialized in the mobile ecosystem. While rooted in Android (Kotlin/Jetpack Compose), I bring deep mastery in React Native, Flutter, and KMP (Kotlin Multiplatform). I serve as a technical reference for architectural strategy, deciding when to go Native vs. Cross-platform and optimizing Native-to-Framework bridges for performance-critical domains like payments, ensuring diverse technologies work seamlessly within native platforms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atwa&label=Profile%20views&color=0e75b6&style=flat" alt="atwa" /> </p>
 
